@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Maher</h1>
-<h3 align="center">A highly motivated data analyst</h3>
+<h3 align="center">A highly motivated data analyst and odoo Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmanmaher&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmanmaher" /> </p>
 
 - 👨‍💻 you can find my Portfolio on [https://www.novypro.com/profile_projects/abdulrahman-maher](https://www.novypro.com/profile_projects/abdulrahman-maher)
 
-- 💬 Ask me about **Data Analysis , Business Intelligence**
+- 💬 Ask me about **Data Analysis , Business Intelligence ,odoo developing**
 
 - 📫 How to reach me **maherabdo261@gmail.com**
 
