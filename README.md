@@ -6,7 +6,7 @@
 
 - 👨‍💻 you can find my Portfolio on [https://www.novypro.com/profile_projects/abdulrahman-maher](https://www.novypro.com/profile_projects/abdulrahman-maher)
 
-- 💬 Ask me about **odoo developing**
+- 💬 Ask me about **odoo developing & Data Analysis**
 
 - 📫 How to reach me **maherabdo261@gmail.com**
 
